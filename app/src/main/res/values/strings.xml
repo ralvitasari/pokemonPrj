@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pokemonPrj</string>
+    <string name="judul_login">Pokemon</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="login_btn">Start</string>
+    <string name="cari_list">Cari Pokemon</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="fullname">Nama Pokemon</string>
+    <string name="detailName">Pokemon</string>
+    <string name="ability">Abilities: </string>
+    <string name="value_ability">Lightning </string>
+</resources>
